@@ -1,3 +1,8 @@
-body {
-    background-color: darkorange;
+.col-sm, 
+.col-md-4, 
+.col-md-8, 
+.col-lg-5, 
+.col-lg-2 {
+    background-color: lightcoral;
+    border: 2px solid #000;
 }
